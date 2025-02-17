@@ -15,5 +15,8 @@
 - [LinkedIn Learning - GitHub Copilot](https://www.linkedin.com/learning/topics/copilot-22672489)
 
 ## Study Guide
-- [GitHub Copilot - JavaScript Lab](https://github.com/MicrosoftDocs/mslearn-copilot-codespaces-javascript)
-- [GitHub Copilot - Python Lab](https://github.com/MicrosoftDocs/mslearn-copilot-codespaces-python)
+- [GitHub Copilot Exam Preparation Study Guide (PDF)](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
+
+## Hands-On Lab
+- [GitHub Copilot Codespaces JavaScript Lab](https://github.com/MicrosoftDocs/mslearn-copilot-codespaces-javascript)
+- [GitHub Copilot Codespaces Python Lab](https://github.com/MicrosoftDocs/mslearn-copilot-codespaces-python)
